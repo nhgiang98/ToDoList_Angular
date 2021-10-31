@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular_ToDoList", "Angular_ToDoList\Angular_ToDoList.csproj", "{1B5EB942-933A-4FC1-AEF6-13E22D312BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5EB942-933A-4FC1-AEF6-13E22D312BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5EB942-933A-4FC1-AEF6-13E22D312BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5EB942-933A-4FC1-AEF6-13E22D312BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5EB942-933A-4FC1-AEF6-13E22D312BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E7147AB-0F25-4063-ADEC-37EAD08383E8}
+	EndGlobalSection
+EndGlobal
