@@ -1,0 +1,20 @@
+<div class="form-group row">
+  <label class="col-sm-2 col-form-label">Description</label>
+  <label class="col-sm-10 mb-3">
+      <textarea class="form-control" [(ngModel)] ="Description" placeholder="Enter Description"></textarea>
+  </label>
+  <label class="col-sm-2 col-form-label">Deadline </label>
+  <label class="col-sm-10 mb-3">
+      <input type="datetime-local" class="form-control" [ngModel] ="Deadline | date:'yyyy-MM-ddTHH:mm'" (ngModelChange) ="Deadline=$event" placeholder="Select deadline date">
+  </label>
+  <label class="col-sm-2 col-form-label">Status </label>
+  <label class="col-sm-10 mb-3">
+      <select class ="form-control" [disabled]="Id==0" [(ngModel)] ="Status">
+         <option *ngFor="let option of statusOptions" [ngValue] = "option">{{option}}</option>
+      </select>
+  </label>
+</div>
+
+<button (click) = "addNewTicket()"  *ngIf="Id==0" class="btn btn-primary">Add</button>
+
+<button (click) = "updateTicket()" *ngIf="Id!=0" class="btn btn-primary">Update</button>

@@ -1,0 +1,51 @@
+.example-container {
+  height: auto;
+  overflow: auto;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  vertical-align: middle;
+}
+
+.content {
+  padding: 25px 20px 20px 20px;
+  vertical-align: middle;
+  background-color: aliceblue;
+}
+
+.btn-light {
+  margin-left: 20px;
+  width: auto;
+  height: auto;
+  background-color: Gainsboro;
+}
+
+button {
+  width: auto;
+  height: auto;
+}
+
+.modal-content{
+  background-color: aliceblue;
+  width: 50%;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.search{
+  width: auto;
+  text-align: left;
+  border: 1px solid;
+  margin-left: 20px;
+}
+.actions{
+  margin: 5px 0 25px 0 ;
+}
+.status{
+ margin-left:20px;
+}
