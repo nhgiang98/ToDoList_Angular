@@ -17,13 +17,12 @@
  - Can reset status and deadline of overdue ticket
 
 4. Note
-   - Done ticket(green hightlight)
-   - Todo ticket (old lace hightlight
-   - Overdue ticket (red hightlight)
-   - Upcoming ticket(gold hightlight)
+ - Done ticket(green hightlight)
+ - Todo ticket (old lace hightlight
+ - Overdue ticket (red hightlight)
+ - Upcoming ticket(gold hightlight)
 5. Set up
-  a. Run script to create a database with MySQL
-  b. Run project in Backend folder
-  c. Run project in Frontend folder
-   - Run command import dependency folder: npm install 
+ - Open project in Backend folder and use Package Manager Console command to add migration to create database in MySQL.
+ - Open project in Frontend folder and use terminal or cmd to:
+   - Run command create dependencíe folder: npm install 
    - Run command to run project: ng serve --open
