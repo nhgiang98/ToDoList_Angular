@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Self-Training\\Angular\\Angular_ToDoList\\Back-end\\Angular_ToDoList\\Angular_ToDoList\\Angular_ToDoList.csproj": {}
+    "C:\\Self-Training\\Angular\\ToDoList_Angular\\Back-end\\Angular_ToDoList\\Angular_ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Self-Training\\Angular\\Angular_ToDoList\\Back-end\\Angular_ToDoList\\Angular_ToDoList\\Angular_ToDoList.csproj": {
+    "C:\\Self-Training\\Angular\\ToDoList_Angular\\Back-end\\Angular_ToDoList\\Angular_ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Self-Training\\Angular\\Angular_ToDoList\\Back-end\\Angular_ToDoList\\Angular_ToDoList\\Angular_ToDoList.csproj",
+        "projectUniqueName": "C:\\Self-Training\\Angular\\ToDoList_Angular\\Back-end\\Angular_ToDoList\\Angular_ToDoList.csproj",
         "projectName": "Angular_ToDoList",
-        "projectPath": "C:\\Self-Training\\Angular\\Angular_ToDoList\\Back-end\\Angular_ToDoList\\Angular_ToDoList\\Angular_ToDoList.csproj",
+        "projectPath": "C:\\Self-Training\\Angular\\ToDoList_Angular\\Back-end\\Angular_ToDoList\\Angular_ToDoList.csproj",
         "packagesPath": "C:\\Users\\gianghoangnguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Self-Training\\Angular\\Angular_ToDoList\\Back-end\\Angular_ToDoList\\Angular_ToDoList\\obj\\",
+        "outputPath": "C:\\Self-Training\\Angular\\ToDoList_Angular\\Back-end\\Angular_ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

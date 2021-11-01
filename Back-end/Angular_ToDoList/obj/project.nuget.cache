@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qQXGBAatoZm3n3goPWgl2IfIw2ID5laGN5cRmGDKdkgEGlX569PxXML40q0lo6pMW3tylkVadSjkJit51BXDrg==",
+  "dgSpecHash": "IaIF/zZjPlPuhcxmH1gaJJtb2YS/f7uIvqF+xv29JROEZMeo7H5kdt6toQOQkY1qERW5IVAYIZN3JW/g8o93jg==",
   "success": true,
-  "projectFilePath": "C:\\Self-Training\\Angular\\Angular_ToDoList\\Back-end\\Angular_ToDoList\\Angular_ToDoList\\Angular_ToDoList.csproj",
+  "projectFilePath": "C:\\Self-Training\\Angular\\ToDoList_Angular\\Back-end\\Angular_ToDoList\\Angular_ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gianghoangnguyen\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\gianghoangnguyen\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
